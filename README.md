@@ -11,7 +11,6 @@
  <p>Projeto feito durante a aula do professor <b>Bonieky Lacerda</b> da <a href="https://b7web.com.br/" target="_blank">B7Web</a>. O cadastro de desenvolvedores é um site fictício onde pessoas podem se cadastrar para que consigam uma oportunidade de emprego. O projeto foi feito com o intuito de praticar o TypeScript no front end apenas, ele não possui back end. Foi implementado também um modo noturno para que o usuário escolha qual tema lhe agrada e responsividade em aparelhos celulares.
 </p><br/>
  
- 
  <h2> 🔗ﾠLink</h2>
  <p>- <a href="http://multiform.mhsouza88.com/" target="_blank">Cadastro de Desenvolvedores</a></p><br/>
 
